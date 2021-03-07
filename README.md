@@ -1,13 +1,9 @@
 # Landing Page Project
 
-## Table of Contents
+This repository is for the Landing Page project for Front End Web Development Proffesional track by FWD and Udacity
 
-* [Instructions](#instructions)
 
-## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+I used the starter project found [here](https://github.com/udacity/fend/tree/refresh-2019).
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+This project uses HTML, CSS and JavaScript to create a static web page.
