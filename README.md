@@ -5,6 +5,6 @@ This repository is for the Landing Page project for Front End Web Development Pr
 
 
 I used the starter project found [here](https://github.com/udacity/fend/tree/refresh-2019).
-I checked [W3 schools](http://w3schools.com/) and [Stackoverflow](stackoverflow.com) for some help.
+I checked [W3 schools](http://w3schools.com/) and [Stackoverflow](https://stackoverflow.com) for some help.
 
 This project uses HTML, CSS and JavaScript to create a static web page.
